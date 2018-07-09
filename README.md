@@ -1,2 +1,2 @@
 # build-lisp
-Build me a lisp
+Lisp buildling per http://www.buildyourownlisp.com.
